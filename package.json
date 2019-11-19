@@ -1,0 +1,12 @@
+{
+  "name": "complexwebapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node routes/index.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "redis": "2.8.0"
+  }
+}
